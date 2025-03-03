@@ -1,24 +1,39 @@
-# Exploratory Data Analysis and Conditional Probability Reports
+Here’s your updated README.md file with improved clarity and structure, incorporating your newly added Python scripts and folder names correctly.
+
+Exploratory Data Analysis and Conditional Probability Reports
+
+Repository Structure
 
 This repository contains:
-1. **PDF Reports**:
-   - `Programming_for_Data_Sciene.pdf`: Report on exploratory data analysis for Fluffy Toys Ltd. stock market dataset.
-   - `Mathematics_for_Data_Science.pdf`: Report on conditional probability and its application.
 
-2. **LaTeX Source Files**:
-   - The `.tex` files used to generate the reports.
+1. Reports (PDF)
+	•	📄 Programming_for_Data_Science.pdf – Report on exploratory data analysis for Fluffy Toys Ltd. stock market dataset.
+	•	📄 Mathematics_for_Data_Science.pdf – Report on conditional probability and its applications.
 
-3. **Jupyter Notebooks**:
-   - Code for EDA and probability analysis in `.ipynb` format.
+2. Python Scripts
+	•	📂 python_scripts/ – Contains Python scripts for probability analysis and data processing.
+	•	conditional_probability.py – Code for weighted and uniform probability calculations.
+	•	eda_analysis.py – Exploratory Data Analysis scripts.
 
-4. **Bibliography**:
-   - The `name.bib` file for references.
+3. LaTeX Source Files
+	•	📂 latex_source/ – Contains the .tex files used to generate the reports.
 
-## How to Use
-- Open the PDF files for the detailed analysis and findings.
-- Use the Jupyter Notebooks to explore or reproduce the analysis.
-- Edit or customize the LaTeX files if required.
+4. Jupyter Notebooks
+	•	📂 notebooks/ – Contains Jupyter Notebooks for data analysis and probability simulations.
 
-## Tools Used
-- Python: Jupyter Lab, Pandas, NumPy
-- LaTeX: Overleaf for report generation
+5. Bibliography
+	•	📄 references.bib – Bibliography file for LaTeX references.
+
+How to Use This Repository
+	•	📖 Read Reports – Open the PDF files for detailed analysis and insights.
+	•	🖥️ Run Python Code – Use the Python scripts in python_scripts/ for EDA and probability analysis.
+	•	📝 Jupyter Notebooks – Open and modify .ipynb notebooks to explore and reproduce the analysis.
+	•	📑 Modify LaTeX Reports – Edit the .tex files inside latex_source/ and compile them using Overleaf or any LaTeX editor.
+
+Tools Used
+	•	Programming: Python (Jupyter Notebook, Pandas, NumPy, Matplotlib)
+	•	Data Analysis: Exploratory Data Analysis (EDA), Conditional Probability
+	•	Document Preparation: LaTeX (Overleaf) for report generation
+
+Feel free to contribute by adding new insights, improving code, or suggesting updates to the reports. Pull requests are welcome!
+
